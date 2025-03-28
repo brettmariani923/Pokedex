@@ -67,7 +67,7 @@
               "RelativeDocumentMoniker": "README.txt",
               "ToolTip": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\README.txt",
               "RelativeToolTip": "README.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-03-28T00:55:13.846Z",
               "EditorCaption": ""
@@ -82,8 +82,7 @@
               "RelativeToolTip": "Pokdex.Data\\gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-28T00:31:09.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T00:31:09.647Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "RelativeToolTip": "Pokdex.Data\\Repositories\\PokemonInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:31:48.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T00:31:48.201Z"
             },
             {
               "$type": "Document",
@@ -132,8 +130,7 @@
               "RelativeToolTip": "Pokdex.Data\\Repositories\\PokemonRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:31:10.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T00:31:10.637Z"
             },
             {
               "$type": "Document",
