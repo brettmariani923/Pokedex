@@ -13,3 +13,4 @@ C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net9
 C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net9.0\Pokdex.Data.pdb
 C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net9.0\Pokdex.Data.genruntimeconfig.cache
 C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net9.0\ref\Pokdex.Data.dll
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net9.0\Pokdex.Data.sourcelink.json

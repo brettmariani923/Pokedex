@@ -20,7 +20,7 @@ namespace Pokdex.Data.Repositories
         }
         public IEnumerable<PokemonInfo> GetAllPokemonInfo()
         {
-            return _connection.Query<PokemonInfo>("SELECT * FROM PokemonInfo");
+            return _connection.Query<PokemonInfo>("SELECT * FROM dbo.Pokemon");
         }
         public void AddPokemonInfo(int pokemonId, string name, int hp, int attack, int defense, int speed,
             string ability, bool legendary, string region)

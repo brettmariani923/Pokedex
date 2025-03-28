@@ -1,0 +1,2 @@
+This is a SQL Project I'm working on where I try to recreate a pokedex. I'm hoping through this project to gain greater familiarity with sql statments 
+and to learn how to use sql to create and interact database. I'm also hoping to learn how to use sql to query a database and to learn how to use sql to update a database.
