@@ -1,0 +1,36 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Pokemon] (Default Constraint)
+       unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+     Alter
+       [dbo].[Pokemon] (Table)
+
+** Supporting actions
+     Create
+       Default Constraint: unnamed constraint on [dbo].[Pokemon] (Default Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+
+The column Ability on table [dbo].[Pokemon] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column Attack on table [dbo].[Pokemon] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column Defense on table [dbo].[Pokemon] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column HP on table [dbo].[Pokemon] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column Legendary on table [dbo].[Pokemon] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column Region on table [dbo].[Pokemon] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column Speed on table [dbo].[Pokemon] must be changed from NULL to NOT NULL. If the table contains data, the ALTER script may not work. To avoid this issue, you must add values to this column for all rows or mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

@@ -1,0 +1,15 @@
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\bin\Debug\net8.0\Pokdex.Data.deps.json
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\bin\Debug\net8.0\Pokdex.Data.dll
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\bin\Debug\net8.0\Pokdex.Data.pdb
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net8.0\Pokdex.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net8.0\Pokdex.Data.AssemblyInfoInputs.cache
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net8.0\Pokdex.Data.AssemblyInfo.cs
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net8.0\Pokdex.Data.csproj.CoreCompileInputs.cache
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net8.0\Pokdex.Data.dll
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net8.0\refint\Pokdex.Data.dll
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net8.0\Pokdex.Data.pdb
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net8.0\ref\Pokdex.Data.dll
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net8.0\Pokdex.Data.csproj.AssemblyReference.cache
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\bin\Debug\net8.0\Pokdex.Data.runtimeconfig.json
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\obj\Debug\net8.0\Pokdex.Data.genruntimeconfig.cache
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokdex.Data\bin\Debug\net8.0\appsettings.json

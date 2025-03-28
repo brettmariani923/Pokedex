@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Pokemon] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Pokemon] (Default Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+
+** Supporting actions

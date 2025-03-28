@@ -1,0 +1,32 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Pokemon] (Default Constraint)
+       unnamed constraint on [dbo].[Pokemon] (Unique Constraint)
+       unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+     Alter
+       [dbo].[Pokemon] (Table)
+
+** Supporting actions
+     Create
+       Unique Constraint: unnamed constraint on [dbo].[Pokemon] (Unique Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Pokemon] (Default Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+
+If this deployment is executed, changes to [dbo].[Pokemon] might introduce run-time errors in [dbo].[SeedTable_Pokemon].
+
