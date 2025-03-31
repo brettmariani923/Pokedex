@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{e7f962ea-1eea-429f-adc8-54e7d018def6}</ProjectGuid>
-    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
@@ -63,8 +63,8 @@
     <Folder Include="Scripts\PostDeploymentScripts" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="DBO\Tables\Pokemon.sql" />
     <Build Include="DBO\Tables\Types.sql" />
+    <Build Include="DBO\Tables\Pokemon.sql" />
     <Build Include="DBO\Tables\PokemonTypes.sql" />
   </ItemGroup>
   <ItemGroup>

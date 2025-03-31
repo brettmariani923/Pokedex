@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Pokemon]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Pokemon].[SpecialAttack] on table [dbo].[Pokemon] must be added, but the column has no default value
+         and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+       The column [dbo].[Pokemon].[SpecialDefense] on table [dbo].[Pokemon] must be added, but the column has no default value
+         and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must
+         either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults
+         as a deployment option.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Pokemon] (Default Constraint)
+       unnamed constraint on [dbo].[PokemonTypes] (Foreign Key)
+     Recreate table
+       [dbo].[Pokemon] (Table)
+     Create
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+
+** Supporting actions
+     Create
+       Foreign Key: unnamed constraint on [dbo].[PokemonTypes] (Foreign Key)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+
+The column [dbo].[Pokemon].[SpecialAttack] on table [dbo].[Pokemon] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+The column [dbo].[Pokemon].[SpecialDefense] on table [dbo].[Pokemon] must be added, but the column has no default value and does not allow NULL values. If the table contains data, the ALTER script will not work. To avoid this issue you must either: add a default value to the column, mark it as allowing NULL values, or enable the generation of smart-defaults as a deployment option.
+

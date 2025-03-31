@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pokedex.Data.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac0df997cb8378bd6c8e3f12187651203db7f986")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc9113ea541bf6f908b87f31757f1c2d0a8d878e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pokedex.Data.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pokedex.Data.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -67,7 +67,7 @@
               "RelativeDocumentMoniker": "README.txt",
               "ToolTip": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\README.txt",
               "RelativeToolTip": "README.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-03-28T00:55:13.846Z",
               "EditorCaption": ""
@@ -157,6 +157,10 @@
               "WhenOpened": "2025-03-23T02:39:58.056Z"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "SeedTable_Types.sql",
@@ -202,10 +206,6 @@
               "RelativeToolTip": "Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-25T01:03:50.456Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

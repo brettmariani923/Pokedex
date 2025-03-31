@@ -1,0 +1,31 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Pokemon]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Pokemon].[SpecialAttack] is being dropped, data loss could occur.
+       The column [dbo].[Pokemon].[SpecialDefense] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Pokemon] (Default Constraint)
+       unnamed constraint on [dbo].[PokemonTypes] (Foreign Key)
+       unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+     Recreate table
+       [dbo].[Pokemon] (Table)
+
+** Supporting actions
+     Create
+       Foreign Key: unnamed constraint on [dbo].[PokemonTypes] (Foreign Key)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+       Check Constraint: unnamed constraint on [dbo].[Pokemon] (Check Constraint)
+
+The column [dbo].[Pokemon].[SpecialAttack] is being dropped, data loss could occur.
+The column [dbo].[Pokemon].[SpecialDefense] is being dropped, data loss could occur.
+

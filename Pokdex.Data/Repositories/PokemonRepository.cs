@@ -26,11 +26,11 @@ namespace Pokdex.Data.Repositories
             string ability, bool legendary, string region)
 
         { _connection.Execute("INSERT INTO dbo.Pokemon (PokemonId, Name, HP, Attack, Defense, Speed, Ability, Legendary, Region) VALUES (@PokemonId, @Name, @HP, @Attack, @Defense, @Speed, @Ability, @Legendary, @Region)", 
-            new { PokemonId = pokemonId, Name = name, HP = hp, Attack = attack, Defense = defense, Speed = speed, Ability = ability, Legendary = legendary, Region = region }); }
+            new { PokemonID = pokemonId, Name = name, HP = hp, Attack = attack, Defense = defense, Speed = speed, Ability = ability, Legendary = legendary, Region = region }); }
         public void UpdatePokemonInfo(int pokemonId, string name, int hp, int attack, int defense, int speed, string ability, bool legendary, string region, bool shiny)
         {
             _connection.Execute("UPDATE dbo.Pokemon SET Name = @Name, HP = @HP, Attack = @Attack, Defense = @Defense, Speed = @Speed, Ability = @Ability, Legendary = @Legendary, Region = @Region, Shiny = @Shiny WHERE PokemonId = @PokemonId", 
-                new { PokemonId = pokemonId, Name = name, HP = hp, attack, defense, speed, ability, legendary, region, shiny });
+                new { PokemonID = pokemonId, Name = name, HP = hp, Attack = attack, Defense = defense, Speed = speed, Ability = ability, Legendary = legendary, Region = region, Shiny = shiny });
         }
         public void DeletePokemonInfo(int pokemonId)
         {
