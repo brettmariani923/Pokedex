@@ -5655,9 +5655,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\Pokdex.Data.csproj",
-      "projectName": "Pokdex.Data",
-      "projectPath": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\Pokdex.Data.csproj",
+      "projectUniqueName": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\Pokedex.Data.csproj",
+      "projectName": "Pokedex.Data",
+      "projectPath": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\Pokedex.Data.csproj",
       "packagesPath": "C:\\Users\\brett\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\obj\\",
       "projectStyle": "PackageReference",

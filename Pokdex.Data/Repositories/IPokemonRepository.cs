@@ -5,16 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading.Tasks.Dataflow;
 
-namespace Pokdex.Data.Repositories
+namespace Pokedex.Data.Repositories
 {
     public interface IPokemonRepository
     {
         public IEnumerable<PokemonInfo> GetAllPokemonInfo();
-        public void AddPokemonInfo(int pokemonId, string name, int hp, int attack, int defense, int speed,
-            string ability, bool legendary, string region);
-        public void UpdatePokemonInfo(int pokemonId, string name, int hp, int attack, int defense, int speed,
-            string ability, bool legendary, string region, bool shiny);
+        public void AddPokemonInfo(int PokemonId, string Name, int HP, int Attack, int Defense, int Speed,
+            string SpecialAttack, string SpecialDefense, string Ability, bool Legendary, string Region);
+        public void UpdatePokemonInfo(int PokemonId, string Name, int HP, int Attack, int Defense, int Speed,
+            string SpecialAttack, string SpecialDefense, string Ability, bool Legendary, string Region);
 
-        public void DeletePokemonInfo(int pokemonId);
+        public void DeletePokemonInfo(int PokemonId);
     }
 }

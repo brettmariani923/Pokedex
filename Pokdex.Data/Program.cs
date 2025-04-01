@@ -7,37 +7,61 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Dapper;
+using Pokedex.Data.Repositories;
 
 
-namespace Pokdex.Data
-    {
+namespace Pokedex.Data
+{
         public class Program
         {
             static void Main(string[] args)
             {
                 var config = new ConfigurationBuilder().SetBasePath(Directory
-                    .GetCurrentDirectory())
+                    .GetCurrentDirectory()) 
                 .AddJsonFile("appsettings.json")
                 .Build();
 
                 var connectionString = config.GetConnectionString("DefaultConnection");
 
-                IDbConnection connection = new SqlConnection(connectionString);
+             IDbConnection connection = new SqlConnection(connectionString);
+            
                 connection.Open();
 
                 var pokemonRepository = new Repositories.PokemonRepository(connection);
 
-                var pokemon = pokemonRepository.GetAllPokemonInfo();
 
-                foreach (var p in pokemon)
-                {
-                    Console.WriteLine($"PokemonId: {p.pokemonId} | Name: {p.name} | HP: {p.hp} | Attack: {p.attack} | Defense: {p.defense} |" +
-                        $" Speed: {p.speed} | Ability: {p.ability} | Legendary: {p.legendary} | Region: {p.region}");
-                }
+            //Returns all pokemon in the database
+            /* var pokemon = pokemonRepository.GetAllPokemonInfo();
+
+             foreach (var p in pokemon)
+             {
+                 Console.WriteLine($"PokemonId: {p.PokemonId} | Name: {p.Name} | HP: {p.HP} | Attack: {p.Attack} | Defense: {p.Defense} |" +
+                     $" SpecialAttack: {p.SpecialAttack} | SpecialDefense: {p.SpecialDefense} | Speed: {p.Speed} | Ability: {p.Ability} | Legendary: {p.Legendary} | Region: {p.Region}");
+                 Console.WriteLine();
+             }
+             */
 
 
+            //Returns up to 10 Pokémon whose name contains the search term.
+            /* var multiplePokemon = pokemonRepository.ReturnPokemonLike("A");
 
+            Console.WriteLine("Matching Pokémon:");
+            foreach (var p in multiplePokemon)
+            {
+                Console.WriteLine($"PokemonId: {p.PokemonId} | Name: {p.Name} | HP: {p.HP} | Attack: {p.Attack} | Defense: {p.Defense} |"  +
+                    $" SpecialAttack: {p.SpecialAttack} | SpecialDefense: {p.SpecialDefense} | Speed: {p.Speed} | Ability: {p.Ability} | Legendary: {p.Legendary} | Region: {p.Region}");
+                Console.WriteLine();
             }
+            */
+
+
+
+
+
+
+
 
         }
+
+    }
     }

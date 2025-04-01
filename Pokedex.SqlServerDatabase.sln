@@ -6,7 +6,7 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Pokedex.SqlServerDatabase",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.Data.Test", "Pokedex.Data.Test\Pokedex.Data.Test.csproj", "{6E901E81-01B2-4E3A-B633-5B00A5477E27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokdex.Data", "Pokdex.Data\Pokdex.Data.csproj", "{636B3308-B084-4CDF-BAFE-BD90B6D499DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.Data", "Pokdex.Data\Pokedex.Data.csproj", "{636B3308-B084-4CDF-BAFE-BD90B6D499DE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
 	ProjectSection(SolutionItems) = preProject

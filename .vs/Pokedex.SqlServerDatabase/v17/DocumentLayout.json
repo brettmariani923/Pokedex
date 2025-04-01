@@ -57,8 +57,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -67,7 +71,7 @@
               "RelativeDocumentMoniker": "README.txt",
               "ToolTip": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\README.txt",
               "RelativeToolTip": "README.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-03-28T00:55:13.846Z",
               "EditorCaption": ""
@@ -93,8 +97,7 @@
               "ToolTip": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\bin\\Debug\\Pokedex.SqlServerDatabase.sql",
               "RelativeToolTip": "Pokedex.SqlServerDatabase\\bin\\Debug\\Pokedex.SqlServerDatabase.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-25T05:03:52.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T05:03:52.226Z"
             },
             {
               "$type": "Document",
