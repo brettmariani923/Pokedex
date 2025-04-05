@@ -1,6 +1,10 @@
 ﻿CREATE TABLE [dbo].[PokemonTypes]
 (
-  ID INT PRIMARY KEY IDENTITY(1,1),
-  PokemonID INT NOT NULL  FOREIGN KEY (PokemonID) REFERENCES Pokemon(PokemonID),
-  TypeID INT NOT NULL   FOREIGN KEY (TypeID) REFERENCES Types(Id)
- )
+    
+    PokemonID  INT PRIMARY KEY IDENTITY(1,1),
+    TypeIDOne INT NOT NULL,
+    TypeIDTwo INT NOT NULL,
+
+    CONSTRAINT FK_PokemonTypes_Type1 FOREIGN KEY (TypeIDOne) REFERENCES Types(Id),
+    CONSTRAINT FK_PokemonTypes_Type2 FOREIGN KEY (TypeIDTwo) REFERENCES Types(Id)
+);

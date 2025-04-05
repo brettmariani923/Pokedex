@@ -4,3 +4,7 @@ C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokedex.SqlServerDatabase\
 C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokedex.SqlServerDatabase\obj\Debug\Pokedex.SqlServerDatabase.pdb
 C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokedex.SqlServerDatabase\bin\Debug\Pokedex.SqlServerDatabase.dll
 C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokedex.SqlServerDatabase\bin\Debug\Pokedex.SqlServerDatabase.pdb
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokedex.SqlServerDatabase\obj\Debug\Model.xml
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokedex.SqlServerDatabase\obj\Debug\refactor.xml
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokedex.SqlServerDatabase\obj\Debug\postdeploy.sql
+C:\Users\brett\source\repos\Pokedex.SqlServerDatabase\Pokedex.SqlServerDatabase\obj\Debug\predeploy.sql

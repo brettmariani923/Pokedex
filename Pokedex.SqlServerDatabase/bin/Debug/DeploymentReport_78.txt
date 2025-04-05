@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[PokemonTypes].[TypeOne] is being dropped, data loss could occur.
+       The column [dbo].[PokemonTypes].[TypeTwo] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       [dbo].[FK_PokemonTypes_Type1] (Foreign Key)
+       [dbo].[FK_PokemonTypes_Type2] (Foreign Key)
+     Alter
+       [dbo].[PokemonTypes] (Table)
+     Create
+       [dbo].[FK_PokemonTypes_Type1] (Foreign Key)
+       [dbo].[FK_PokemonTypes_Type2] (Foreign Key)
+
+** Supporting actions
+
+The column [dbo].[PokemonTypes].[TypeOne] is being dropped, data loss could occur.
+The column [dbo].[PokemonTypes].[TypeTwo] is being dropped, data loss could occur.
+

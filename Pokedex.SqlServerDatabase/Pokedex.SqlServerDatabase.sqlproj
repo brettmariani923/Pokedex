@@ -65,12 +65,13 @@
   <ItemGroup>
     <Build Include="DBO\Tables\Types.sql" />
     <Build Include="DBO\Tables\Pokemon.sql" />
-    <Build Include="DBO\Tables\PokemonTypes.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="PublishLocations\Pokedex.SqlServerDatabase.publish.xml" />
     <None Include="Scripts\PostDeploymentScripts\SeedTable_Types.sql" />
     <None Include="Scripts\PostDeploymentScripts\SeedTable_Pokemon.sql" />
+    <None Include="Scripts\PostDeploymentScripts\SeedTable_PokemonTypes.sql" />
+    <None Include="DBO\Tables\PokemonTypes.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\PostDeploymentScripts\Script.PostDeployment.sql" />

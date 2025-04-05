@@ -18,24 +18,25 @@ BEGIN
           [Id], [Name] 
     FROM 
     (  VALUES
-            (0, 'Fire')
-          , (1, 'Water')
-          , (2, 'Flying')
-          , (3, 'Fighting')
-          , (4, 'Steel')
-          , (5, 'Ground')
-          , (6, 'Psychic')
-          , (7, 'Rock')
-          , (8, 'Grass')
-          , (9, 'Electric')
-          , (10, 'Ice')
-          , (11, 'Bug')
-          , (12, 'Poison')
-          , (13, 'Ghost')
-          , (14, 'Dark')
-          , (15, 'Dragon')
-          , (16, 'Fairy')
-          , (17, 'Normal')
+          (0, 'Normal')
+        , (1, 'Fire')
+        , (2, 'Water')
+        , (3, 'Electric')
+        , (4, 'Grass')
+        , (5, 'Ice')
+        , (6, 'Fighting')
+        , (7, 'Poison')
+        , (8, 'Ground')
+        , (9, 'Flying')
+        , (10, 'Psychic')
+        , (11, 'Bug')
+        , (12, 'Rock')
+        , (13, 'Ghost')
+        , (14, 'Dragon')
+        , (15, 'Dark')
+        , (16, 'Steel')
+        , (17, 'Fairy')
+
           
 
 

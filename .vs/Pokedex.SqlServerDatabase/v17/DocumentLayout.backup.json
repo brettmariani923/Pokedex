@@ -3,28 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{E7F962EA-1EEA-429F-ADC8-54E7D018DEF6}|Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj|C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|00106176-fa71-458f-a7ba-edf89df82ad3",
+      "RelativeMoniker": "D:0:0:{E7F962EA-1EEA-429F-ADC8-54E7D018DEF6}|Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj|solutionrelative:Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|00106176-fa71-458f-a7ba-edf89df82ad3"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\repositories\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|solutionrelative:pokdex.data\\repositories\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\repositories\\pokemoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|solutionrelative:pokdex.data\\repositories\\pokemoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|solutionrelative:pokdex.data\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F962EA-1EEA-429F-ADC8-54E7D018DEF6}|Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj|C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Types.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{E7F962EA-1EEA-429F-ADC8-54E7D018DEF6}|Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj|solutionrelative:Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Types.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Pokedex.SqlServerDatabase||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7F962EA-1EEA-429F-ADC8-54E7D018DEF6}|Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj|C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Pokemon.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{E7F962EA-1EEA-429F-ADC8-54E7D018DEF6}|Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj|solutionrelative:Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Pokemon.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|solutionrelative:pokdex.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\repositories\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|solutionrelative:pokdex.data\\repositories\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\repositories\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|solutionrelative:pokdex.data\\repositories\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\repositories\\pokemoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|solutionrelative:pokdex.data\\repositories\\pokemoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F962EA-1EEA-429F-ADC8-54E7D018DEF6}|Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj|C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Types.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E7F962EA-1EEA-429F-ADC8-54E7D018DEF6}|Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj|solutionrelative:Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Types.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7F962EA-1EEA-429F-ADC8-54E7D018DEF6}|Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj|C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\Script.PostDeployment.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
@@ -35,19 +46,16 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pokedex.SqlServerDatabase\\bin\\Debug\\Pokedex.SqlServerDatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|solutionrelative:pokdex.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|solutionrelative:pokdex.data\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Pokedex.SqlServerDatabase||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokedex.Data.csproj|solutionrelative:pokdex.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\repositories\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|solutionrelative:pokdex.data\\repositories\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|c:\\users\\brett\\source\\repos\\pokedex.sqlserverdatabase\\pokdex.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{636B3308-B084-4CDF-BAFE-BD90B6D499DE}|Pokdex.Data\\Pokdex.Data.csproj|solutionrelative:pokdex.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E7F962EA-1EEA-429F-ADC8-54E7D018DEF6}|Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj|C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Pokemon.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{E7F962EA-1EEA-429F-ADC8-54E7D018DEF6}|Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj|solutionrelative:Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Pokemon.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,24 +65,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 13,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "README.txt",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\README.txt",
               "RelativeDocumentMoniker": "README.txt",
               "ToolTip": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\README.txt",
               "RelativeToolTip": "README.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-03-28T00:55:13.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "gitignore",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\gitignore",
               "RelativeDocumentMoniker": "Pokdex.Data\\gitignore",
@@ -82,23 +94,23 @@
               "RelativeToolTip": "Pokdex.Data\\gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-28T00:31:09.647Z"
+              "WhenOpened": "2025-03-28T00:31:09.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Pokedex.SqlServerDatabase.sql",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\bin\\Debug\\Pokedex.SqlServerDatabase.sql",
               "RelativeDocumentMoniker": "Pokedex.SqlServerDatabase\\bin\\Debug\\Pokedex.SqlServerDatabase.sql",
               "ToolTip": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\bin\\Debug\\Pokedex.SqlServerDatabase.sql",
               "RelativeToolTip": "Pokedex.SqlServerDatabase\\bin\\Debug\\Pokedex.SqlServerDatabase.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-25T05:03:52.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T05:03:52.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "IPokemonRepository.cs",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\Repositories\\IPokemonRepository.cs",
               "RelativeDocumentMoniker": "Pokdex.Data\\Repositories\\IPokemonRepository.cs",
@@ -106,11 +118,12 @@
               "RelativeToolTip": "Pokdex.Data\\Repositories\\IPokemonRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:31:51.421Z"
+              "WhenOpened": "2025-03-25T00:31:51.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PokemonInfo.cs",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\Repositories\\PokemonInfo.cs",
               "RelativeDocumentMoniker": "Pokdex.Data\\Repositories\\PokemonInfo.cs",
@@ -118,23 +131,25 @@
               "RelativeToolTip": "Pokdex.Data\\Repositories\\PokemonInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:31:48.201Z"
+              "WhenOpened": "2025-03-25T00:31:48.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PokemonRepository.cs",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\Repositories\\PokemonRepository.cs",
               "RelativeDocumentMoniker": "Pokdex.Data\\Repositories\\PokemonRepository.cs",
               "ToolTip": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\Repositories\\PokemonRepository.cs",
               "RelativeToolTip": "Pokdex.Data\\Repositories\\PokemonRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:31:10.637Z"
+              "WhenOpened": "2025-03-25T00:31:10.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\appsettings.json",
               "RelativeDocumentMoniker": "Pokdex.Data\\appsettings.json",
@@ -142,19 +157,21 @@
               "RelativeToolTip": "Pokdex.Data\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-24T06:04:40.504Z"
+              "WhenOpened": "2025-03-24T06:04:40.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\Program.cs",
               "RelativeDocumentMoniker": "Pokdex.Data\\Program.cs",
               "ToolTip": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokdex.Data\\Program.cs",
               "RelativeToolTip": "Pokdex.Data\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T02:39:58.056Z"
+              "WhenOpened": "2025-03-23T02:39:58.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -162,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SeedTable_Types.sql",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Types.sql",
               "RelativeDocumentMoniker": "Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Types.sql",
@@ -174,8 +191,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SeedTable_Pokemon.sql",
+              "DocumentIndex": 2,
+              "Title": "SeedTable_Pokemon.sql ",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Pokemon.sql",
               "RelativeDocumentMoniker": "Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Pokemon.sql",
               "ToolTip": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\SeedTable_Pokemon.sql",
@@ -186,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Script.PostDeployment.sql",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\Script.PostDeployment.sql",
               "RelativeDocumentMoniker": "Pokedex.SqlServerDatabase\\Scripts\\PostDeploymentScripts\\Script.PostDeployment.sql",
@@ -198,14 +215,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Pokedex.SqlServerDatabase",
               "DocumentMoniker": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj",
               "RelativeDocumentMoniker": "Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj",
-              "ToolTip": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj*",
-              "RelativeToolTip": "Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj*",
+              "ToolTip": "C:\\Users\\brett\\source\\repos\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj",
+              "RelativeToolTip": "Pokedex.SqlServerDatabase\\Pokedex.SqlServerDatabase.sqlproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-25T01:03:50.456Z"
+              "WhenOpened": "2025-03-25T01:03:50.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1578,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

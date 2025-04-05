@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[PokemonTypes] (Foreign Key)
+       unnamed constraint on [dbo].[PokemonTypes] (Foreign Key)
+       unnamed constraint on [dbo].[PokemonTypes] (Foreign Key)
+     Create
+       [dbo].[FK_PokemonTypes_Pokemon] (Foreign Key)
+       [dbo].[FK_PokemonTypes_Type1] (Foreign Key)
+       [dbo].[FK_PokemonTypes_Type2] (Foreign Key)
+
+** Supporting actions

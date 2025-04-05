@@ -42,8 +42,9 @@ namespace Pokedex.Data
              */
 
 
-            //Returns up to 10 Pokémon whose name contains the search term.
-            /* var multiplePokemon = pokemonRepository.ReturnPokemonLike("A");
+            //Returns up to 25 Pokémon whose name contains the search term.
+             var multiplePokemon = pokemonRepository.ReturnPokemonLike("regi");
+
 
             Console.WriteLine("Matching Pokémon:");
             foreach (var p in multiplePokemon)
@@ -52,7 +53,7 @@ namespace Pokedex.Data
                     $" SpecialAttack: {p.SpecialAttack} | SpecialDefense: {p.SpecialDefense} | Speed: {p.Speed} | Ability: {p.Ability} | Legendary: {p.Legendary} | Region: {p.Region}");
                 Console.WriteLine();
             }
-            */
+            
 
 
 

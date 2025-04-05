@@ -21,6 +21,9 @@ namespace Pokedex.Data.Repositories
         public IEnumerable<PokemonInfo> GetAllPokemonInfo()
         {
             return _connection.Query<PokemonInfo>("SELECT * FROM dbo.Pokemon");
+
+
+           
         }
         public void AddPokemonInfo(int PokemonId, string Name, int HP, int Attack, int Defense, int Speed,
             string SpecialAttack, string SpecialDefense, string Ability, bool Legendary, string Region)
@@ -42,10 +45,28 @@ namespace Pokedex.Data.Repositories
             return _connection.Query<PokemonInfo>(
                 "SELECT TOP (@Limit) * FROM Pokemon WHERE Name LIKE @NamePattern",
                 new { Limit = limit, NamePattern = $"%{name}%" }
+
             );
         }
 
-
+          (0, 'Normal')
+        , (1, 'Fire')
+        , (2, 'Water')
+        , (3, 'Electric')
+        , (4, 'Grass')
+        , (5, 'Ice')
+        , (6, 'Fighting')
+        , (7, 'Poison')
+        , (8, 'Ground')
+        , (9, 'Flying')
+        , (10, 'Psychic')
+        , (11, 'Bug')
+        , (12, 'Rock')
+        , (13, 'Ghost')
+        , (14, 'Dragon')
+        , (15, 'Dark')
+        , (16, 'Steel')
+        , (17, 'Fairy')
 
         public void DeletePokemonInfo(int PokemonId)
         {

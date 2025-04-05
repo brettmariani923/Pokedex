@@ -9,7 +9,6 @@ namespace Pokedex.Data.Repositories
 {
     public class PokemonInfo
     {
-
         public int PokemonId {get; set;}
         public required string Name { get; set; }
         public int HP { get; set; }
